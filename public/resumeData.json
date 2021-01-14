@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Ryan Santiago",
+    "occupation": "Senior Software Developer",
+    "description": "Not your average Software Developer. Get ready to turn your ideas into reality.",
+    "image": "Lhay.jpg",
+    "bio": "Hi I'm Ryan but you can call me Lhay, I'm a Senior Software Developer. Currently I'm working at Jeonsoft Corporation using Delphi and SQL for Desktop App and PERNStack for Web.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "lhaypachie8@gmail.com",
+    "phone": "+639 66230 9062",
+    "address": {
+      "street": "901 Santiago Street Bagbaguin",
+      "city": "Caloocan City",
+      "zip": "1420"
+    },
+    "website": "",
+    "resumedownload": "images/Ryan Santiago Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Lhay.pachie03",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lhaypachie",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/patrinus_ryan",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lhaypachie",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here is some tools that I professionally use.",
+    "education": [
+      {
+        "school": "Bestlink College of the Philippines",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "January 2017"
+      }
+    ],
+    "work": [
+      {
+        "company": "Jeonsoft Corporation",
+        "title": "Senior Software Developer",
+        "years": "August 2018 - Present",
+        "description": "Maintain and enhance software projects, Optimizing scripts for better system performance and implement new technology to help other developers."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "90%"
+      },
+      {
+        "name": "Postgres",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Zoom Clone with NodeJS",
+        "category": "Zoom Clone built with NodeJS",
+        "image": "zoom.jpg",
+        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+      },
+      {
+        "title": "Robinhood Clone",
+        "category": "Robinhood Clone built with ReactJS",
+        "image": "robinhood.jpg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Just a bunch of text with no meaning. Just to look good for this portfolio website.",
+        "user": "Juan Dela Cruz"
+      },
+      {
+        "text": "Just a bunch of text with no meaning. Just to look good for this portfolio website.",
+        "user": "Jose Protacio Rizal Mercado y Alonso Realonda"
+      }
+    ]
+  }
+}
