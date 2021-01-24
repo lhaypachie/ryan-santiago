@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ryan-santiago/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ryan-santiago/static/js/main.a7c6306f.chunk.js",
+    "main.js.map": "/ryan-santiago/static/js/main.a7c6306f.chunk.js.map",
+    "runtime-main.js": "/ryan-santiago/static/js/runtime-main.a705f5e6.js",
+    "runtime-main.js.map": "/ryan-santiago/static/js/runtime-main.a705f5e6.js.map",
+    "static/js/2.e071bb75.chunk.js": "/ryan-santiago/static/js/2.e071bb75.chunk.js",
+    "static/js/2.e071bb75.chunk.js.map": "/ryan-santiago/static/js/2.e071bb75.chunk.js.map",
+    "static/js/3.e511dfbf.chunk.js": "/ryan-santiago/static/js/3.e511dfbf.chunk.js",
+    "static/js/3.e511dfbf.chunk.js.map": "/ryan-santiago/static/js/3.e511dfbf.chunk.js.map",
+    "index.html": "/ryan-santiago/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ryan-santiago/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e071bb75.chunk.js.LICENSE.txt": "/ryan-santiago/static/js/2.e071bb75.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ryan-santiago/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a705f5e6.js",
+    "static/js/2.e071bb75.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a7c6306f.chunk.js"
+  ]
+}
