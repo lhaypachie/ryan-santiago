@@ -4,7 +4,10 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.2",
+    "express": "^4.17.1",
+    "express-favicon": "^2.0.1",
     "jquery": "^3.5.1",
+    "path": "^0.12.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^3.1.2",
@@ -15,9 +18,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "start": "serve -s build",
+    "start": "node server.js",
     "heroku-postbuild": "npm run build",
-    "dev":  "react-scripts start"
+    "dev": "react-scripts start"
   },
   "browserslist": {
     "production": [
