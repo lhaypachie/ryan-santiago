@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/ryan-santiago/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ryan-santiago/static/js/main.a7c6306f.chunk.js",
-    "main.js.map": "/ryan-santiago/static/js/main.a7c6306f.chunk.js.map",
-    "runtime-main.js": "/ryan-santiago/static/js/runtime-main.a705f5e6.js",
-    "runtime-main.js.map": "/ryan-santiago/static/js/runtime-main.a705f5e6.js.map",
-    "static/js/2.e071bb75.chunk.js": "/ryan-santiago/static/js/2.e071bb75.chunk.js",
-    "static/js/2.e071bb75.chunk.js.map": "/ryan-santiago/static/js/2.e071bb75.chunk.js.map",
-    "static/js/3.e511dfbf.chunk.js": "/ryan-santiago/static/js/3.e511dfbf.chunk.js",
-    "static/js/3.e511dfbf.chunk.js.map": "/ryan-santiago/static/js/3.e511dfbf.chunk.js.map",
+    "main.css": "/ryan-santiago/static/css/main.265f3881.chunk.css",
+    "main.js": "/ryan-santiago/static/js/main.38e6829f.chunk.js",
+    "main.js.map": "/ryan-santiago/static/js/main.38e6829f.chunk.js.map",
+    "runtime-main.js": "/ryan-santiago/static/js/runtime-main.63ae7fcf.js",
+    "runtime-main.js.map": "/ryan-santiago/static/js/runtime-main.63ae7fcf.js.map",
+    "static/js/2.45c1760c.chunk.js": "/ryan-santiago/static/js/2.45c1760c.chunk.js",
+    "static/js/2.45c1760c.chunk.js.map": "/ryan-santiago/static/js/2.45c1760c.chunk.js.map",
+    "static/js/3.7235c90b.chunk.js": "/ryan-santiago/static/js/3.7235c90b.chunk.js",
+    "static/js/3.7235c90b.chunk.js.map": "/ryan-santiago/static/js/3.7235c90b.chunk.js.map",
     "index.html": "/ryan-santiago/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/ryan-santiago/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e071bb75.chunk.js.LICENSE.txt": "/ryan-santiago/static/js/2.e071bb75.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ryan-santiago/static/media/logo.6ce24c58.svg"
+    "static/css/main.265f3881.chunk.css.map": "/ryan-santiago/static/css/main.265f3881.chunk.css.map",
+    "static/js/2.45c1760c.chunk.js.LICENSE.txt": "/ryan-santiago/static/js/2.45c1760c.chunk.js.LICENSE.txt",
+    "static/media/Lhay.49ba5702.png": "/ryan-santiago/static/media/Lhay.49ba5702.png",
+    "static/media/App.css": "/ryan-santiago/static/media/header-background.3b9d0a7b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a705f5e6.js",
-    "static/js/2.e071bb75.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a7c6306f.chunk.js"
+    "static/js/runtime-main.63ae7fcf.js",
+    "static/js/2.45c1760c.chunk.js",
+    "static/css/main.265f3881.chunk.css",
+    "static/js/main.38e6829f.chunk.js"
   ]
 }
