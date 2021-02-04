@@ -1,23 +1,23 @@
 export const PortfolioData = [
     {
+        image:  '/gettingoverit.jpg',
+        url: 'https://lhaypachie.github.io/GettingOverIt/',
+        alt: 'GettingOverIt'
+    },
+    {
         image:  '/portfolio1.jpg',
-        url: 'https://www.facebook.com',
-        alt: 'portfolio1'
+        url: 'https://lhaypachie.github.io/GettingOverIt/',
+        alt: 'GettingOverIt'
     },
     {
-        image:  '/portfolio2.jpg',
-        url: 'www.facebook.com',
-        alt: 'portfolio2'
+        image:  '/portfolio1.jpg',
+        url: 'https://lhaypachie.github.io/GettingOverIt/',
+        alt: 'GettingOverIt'
     },
     {
-        image:  '/portfolio3.jpg',
-        url: 'www.facebook.com',
-        alt: 'portfolio3'
-    },
-    {
-        image:  '/portfolio4.jpg',
-        url: 'www.facebook.com',
-        alt: 'portfolio4'
-
+        image:  '/portfolio1.jpg',
+        url: 'https://lhaypachie.github.io/GettingOverIt/',
+        alt: 'GettingOverIt'
     }
+    
 ]

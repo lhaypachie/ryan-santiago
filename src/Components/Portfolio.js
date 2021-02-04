@@ -27,7 +27,7 @@ const Portfolio = ( {slides}) => {
                 <a onClick={nextSlide}><i className='right-arrow fa fa-arrow-circle-right'></i></a>
 
                 {PortfolioData.map((slide, index) => {
-                var projectImage = 'images/portfolio/'+slide.image;
+                var projectImage = process.env.PUBLIC_URL +'/images/portfolio/'+slide.image;
                     return (
                         <div className={index === current ? 'slide active' : 'slide'} key={index}>
                             {index === current && (

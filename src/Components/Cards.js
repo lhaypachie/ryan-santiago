@@ -23,7 +23,7 @@ export default function Cards() {
         justify="center"
         >
             {CardData.map((d) => {
-            var toolImage = 'images/tools/'+d.image
+            var toolImage = process.env.PUBLIC_URL +'/images/tools/'+d.image
             return (
                 <Card image={toolImage} title={d.title} text={d.text}/>
             )
